@@ -106,5 +106,5 @@ __END__
 
 ### Videos
 
-* [How Popular is OpenMP?](https://www.youtube.com/watch?v=VkOou-_hhTU} (2023)
+* [How Popular is OpenMP?](https://www.youtube.com/watch?v=VkOou-_hhTU) (2023)
 
