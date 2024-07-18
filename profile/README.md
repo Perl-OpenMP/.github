@@ -2,16 +2,16 @@
 
 For chat, _visit_: [#system-programming](https://discord.gg/WKz6bGnn9B) on the PA&A Discord
 
-## Learning OpenMP
+## Learning OpenMP (Videos)
 
 * [The OpenMP Common Core: A hands on exploration ǀ Tim Mattson, Intel
-](https://www.youtube.com/watch?v=T0csnAirv-U)
+](https://www.youtube.com/watch?v=T0csnAirv-U) (3.5 hrs, 2019)
 * [Using OpenMP in Perl](https://www.youtube.com/watch?v=wHjmxGJd7rQ) (2hrs - Houston PM, May 2021)
 * [Introduction to OpenMP for Perl Programmers](https://www.youtube.com/watch?v=4SRR2-uGg40) (50m - TPRC 2022)
 * [State of the Art: Perl and Multithreading via OpenMP](https://www.youtube.com/watch?v=4SRR2-uGg40) (50m - TPRC 2022)
 * [Intermediate OpenMP for Perl Programmers](https://www.youtube.com/watch?v=_pzG5DerDT0) (50m - TPRC 2024)
 
-## On CPAN
+## OpenMP Modules On CPAN
 
 * [OpenMP::Simple](https://metacpan.org/pod/OpenMP::Simple)
 * [OpenMP::Environment](https://metacpan.org/pod/OpenMP::Environment)
