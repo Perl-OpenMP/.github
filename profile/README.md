@@ -1,3 +1,6 @@
-<h2>Perl+OpenMP</h2>
+<h1>Perl+OpenMP</h1>
 
-* https://www.youtube.com/watch?v=T0csnAirv-U
+<h2>Learning OpenMP</h2>
+
+* [The OpenMP Common Core: A hands on exploration ǀ Tim Mattson, Intel
+](https://www.youtube.com/watch?v=T0csnAirv-U)
