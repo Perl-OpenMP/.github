@@ -74,6 +74,25 @@ int _check_num_threads() {
 __END__
 ```
 
+### Most Used OpenMP Things (the _Common Core_):
+
+* `#pragma omp parallel`
+* `int omp_get_thread_num()`
+* `int omp_get_num_threads()`
+* `export OMP_NUM_THREADS=N`
+* `#pragma omp barrier`
+* `#pragma omp critical`
+* `#pragma omp for`
+* `#pragma omp parallel for`
+* `reduction(op:list)`
+* `schedule(dynamic[,chunk])`
+* `shcedule(static,[,chunk])`
+* `private(list)`, `firstprivate(list)`, `shared(list)`
+* `nowait`
+* `#pragma omp single`
+* `#pragma omp task`
+* `#pragma omp taskwait`
+
 ## Resources
 
 ### Tutorials
