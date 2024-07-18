@@ -76,7 +76,7 @@ __END__
 
 ## Resources
 
-### Links
+### Tutorials
 
 * PDF [The OpenMP Common Core: A journey back to the roots of OpenMP](https://www.openmp.org/wp-content/uploads/SC19-Mattson-Common-Core.pdf) (Mattson, 2019) [code](https://github.com/Perl-OpenMP/openmp-tutorial)
 * PDF [A Guide To OpenMP](https://cscads.rice.edu/openmp-combined.pdf) (Estrade, 2011)
