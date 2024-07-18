@@ -1,6 +1,6 @@
 # Perl+OpenMP
 
-For chat, _visit_: [#system-programming](https://discord.gg/WKz6bGnn9B) on the PA&A Discord
+discussions, _visit_: [#system-programming](https://discord.gg/WKz6bGnn9B) on the PA&A Discord
 
 ## Learning OpenMP (Videos)
 
