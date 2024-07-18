@@ -104,3 +104,7 @@ __END__
 
 * Amazon: [The OpenMP Common Core: Making OpenMP Simple Again (Scientific and Engineering Computation)](https://www.amazon.com/OpenMP-Common-Core-Engineering-Computation/dp/0262538865) (ISBN: 0262538865)
 
+### Videos
+
+* [How Popular is OpenMP?](https://www.youtube.com/watch?v=VkOou-_hhTU} (2023)
+
