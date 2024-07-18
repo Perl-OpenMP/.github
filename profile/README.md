@@ -1,5 +1,7 @@
 # Perl+OpenMP
 
+_PA&A_ Discord: [Visit #system-programming](https://discord.gg/WKz6bGnn9B)
+
 ## Learning OpenMP
 
 * [The OpenMP Common Core: A hands on exploration ǀ Tim Mattson, Intel
@@ -64,4 +66,6 @@ int _check_num_threads() {
  
   return ret;
 }
+
+__END__
 ```
