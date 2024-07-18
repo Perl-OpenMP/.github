@@ -6,6 +6,10 @@ For chat, _visit_: [#system-programming](https://discord.gg/WKz6bGnn9B) on the P
 
 * [The OpenMP Common Core: A hands on exploration ǀ Tim Mattson, Intel
 ](https://www.youtube.com/watch?v=T0csnAirv-U)
+* [Using OpenMP in Perl](https://www.youtube.com/watch?v=wHjmxGJd7rQ) (2hrs - Houston PM, May 2021)
+* [Introduction to OpenMP for Perl Programmers](https://www.youtube.com/watch?v=4SRR2-uGg40) (50m - TPRC 2022)
+* [State of the Art: Perl and Multithreading via OpenMP](https://www.youtube.com/watch?v=4SRR2-uGg40) (50m - TPRC 2022)
+* [Intermediate OpenMP for Perl Programmers](https://www.youtube.com/watch?v=_pzG5DerDT0) (50m - TPRC 2024)
 
 ## On CPAN
 
