@@ -1,25 +1,19 @@
 # Perl+OpenMP
 
 ## Learning OpenMP
-
 * [The OpenMP Common Core: A hands on exploration ǀ Tim Mattson, Intel
 ](https://www.youtube.com/watch?v=T0csnAirv-U)
 
 ## On CPAN
-
 * [OpenMP::Simple](https://metacpan.org/pod/OpenMP::Simple)
 * [OpenMP::Environment](https://metacpan.org/pod/OpenMP::Environment)
 
 ## Quick Start
-
 ### Install Modules
-
 ```
 cpanm OpenMP::Environment OpenMP::Simple
 ```
-
 ### First Program
-
 Create this Perl file and execute on *nix using a `perl` built using `gcc`:
 
 ```perl
