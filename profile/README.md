@@ -1,7 +1,7 @@
 # Perl+OpenMP
 
 * discussions, _visit_: [#system-programming](https://discord.gg/WKz6bGnn9B) on the PA&A Discord
-* [email discussion list sign up](https://perl-guilds.net/mailman/listinfo/openmp_perl-guilds.net) @ _perl-guilds.net_ [archive](https://perl-guilds.net/pipermail/openmp_perl-guilds.net/)
+* old school email discussions - **[sign up](https://perl-guilds.net/mailman/listinfo/openmp_perl-guilds.net)** @ _perl-guilds.net_ [[archive](https://perl-guilds.net/pipermail/openmp_perl-guilds.net/)]
 * (*NOTE: I am working on email deliverability issues for _gmail_ users, maybe other "free" email sites!)
 
 ## Learning OpenMP (Videos)
