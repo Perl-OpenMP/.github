@@ -75,7 +75,11 @@ int _check_num_threads() {
 
 __END__
 ```
+### Next Program
 
+That's up to you. Please share!
+
+## Resources
 ### Most Used OpenMP Things (the _Common Core_):
 
 * `#pragma omp parallel`
@@ -95,7 +99,6 @@ __END__
 * `#pragma omp task`
 * `#pragma omp taskwait`
 
-## Resources
 
 ### Tutorials
 
