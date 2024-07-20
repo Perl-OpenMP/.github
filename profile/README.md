@@ -15,9 +15,9 @@
 
 ## OpenMP Modules On CPAN
 
-* [OpenMP](https://metacpan.org/pod/OpenMP)
-*  * [OpenMP::Simple](https://metacpan.org/pod/OpenMP::Simple)
-*  * [OpenMP::Environment](https://metacpan.org/pod/OpenMP::Environment)
+* [OpenMP](https://metacpan.org/pod/OpenMP) - metapackage (includes following 2 modules w/_lagniappe_)
+* [OpenMP::Simple](https://metacpan.org/pod/OpenMP::Simple) - helper C macros and runtime functions
+* [OpenMP::Environment](https://metacpan.org/pod/OpenMP::Environment) - for managing variables in `%ENV` important to the OpenMP runtime
 
 ## Quick Start
 ### Install Modules
