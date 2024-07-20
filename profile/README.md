@@ -21,7 +21,7 @@
 ## Quick Start
 ### Install Modules
 
-`cpanm OpenMP::Environment OpenMP::Simple`
+`cpanm OpenMP`
 
 ### First Program
 
