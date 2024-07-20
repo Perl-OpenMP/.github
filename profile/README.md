@@ -22,7 +22,7 @@
 ## Quick Start
 ### Install Modules
 
-`cpanm OpenMP`
+`cpanm OpenMP # installs all of the above modules`
 
 ### First Program
 
