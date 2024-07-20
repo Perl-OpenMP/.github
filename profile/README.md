@@ -74,6 +74,20 @@ int _check_num_threads() {
 }
 __END__
 ```
+
+Expected Output:
+
+```
+1 threads spawned in the OpenMP runtime, expecting 1
+2 threads spawned in the OpenMP runtime, expecting 2
+3 threads spawned in the OpenMP runtime, expecting 3
+4 threads spawned in the OpenMP runtime, expecting 4
+5 threads spawned in the OpenMP runtime, expecting 5
+6 threads spawned in the OpenMP runtime, expecting 6
+7 threads spawned in the OpenMP runtime, expecting 7
+8 threads spawned in the OpenMP runtime, expecting 8
+```
+
 ### Next Program
 
 That's up to you. Please share!
