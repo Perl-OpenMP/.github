@@ -15,8 +15,9 @@
 
 ## OpenMP Modules On CPAN
 
-* [OpenMP::Simple](https://metacpan.org/pod/OpenMP::Simple)
-* [OpenMP::Environment](https://metacpan.org/pod/OpenMP::Environment)
+* [OpenMP](https://metacpan.org/pod/OpenMP)
+*  * [OpenMP::Simple](https://metacpan.org/pod/OpenMP::Simple)
+*  * [OpenMP::Environment](https://metacpan.org/pod/OpenMP::Environment)
 
 ## Quick Start
 ### Install Modules
