@@ -54,16 +54,16 @@ for my $want_num_threads ( 1 .. 8 ) {
             "the OpenMP runtime, expecting %0d\n",
               $got_num_threads, $want_num_threads;
 }
-   
+ 
 __DATA__
 __C__
  
 /* C function parallelized with OpenMP */
 int _check_num_threads() {
   int ret = 0;
- 
+    
   PerlOMP_GETENV_BASIC
- 
+   
   #pragma omp parallel
   {
     #pragma omp single
@@ -72,7 +72,6 @@ int _check_num_threads() {
  
   return ret;
 }
-
 __END__
 ```
 ### Next Program
