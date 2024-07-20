@@ -74,8 +74,7 @@ int _check_num_threads() {
 }
 __END__
 ```
-
-Expected Output:
+**Expected Output:**
 
 ```
 1 threads spawned in the OpenMP runtime, expecting 1
