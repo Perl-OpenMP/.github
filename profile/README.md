@@ -111,6 +111,8 @@ That's up to you. Please share!
 * `#pragma omp task`
 * `#pragma omp taskwait`
 
+See more below under "Videos."
+
 
 ### Tutorials
 
@@ -123,5 +125,12 @@ That's up to you. Please share!
 
 ### Videos
 
-* [How Popular is OpenMP?](https://www.youtube.com/watch?v=VkOou-_hhTU) (2023)
+* [How Popular is OpenMP?](https://www.youtube.com/watch?v=VkOou-_hhTU) (2023) - _Spoiler_ it is VERY popular!
+
+Highlighted slides fropm this video speak of the most popular OpenMP constructs; the red boxes are items in the first edition of _Common Core_, the items in green are identified by Mattsen candiates for an updated version of the book since they have proven emiracally to be popular. The items in the first edition were a _good_ guess:
+
+![image](https://github.com/user-attachments/assets/2310fd45-735d-4bcd-a7e0-f44a0f145866)
+
+
+
 
